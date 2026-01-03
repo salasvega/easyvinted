@@ -1,7 +1,0 @@
-{
-  "name": "SnapSell AI",
-  "description": "An AI-powered e-commerce assistant that analyzes product photos to generate listings and edits images using text prompts.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
